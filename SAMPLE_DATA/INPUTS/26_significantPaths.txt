@@ -1,0 +1,31 @@
+*Alignment with highest score*
+Alignment score: 12.7733 P-value: 0.000209141
+
+peptide: HGVKN
+path:    H73I G75I V74I S71I N69I 
+
+Alignment:
+HGVKN
+HGVSN
+
+_________________________________
+Alignment score: 12.2097 P-value: 0.000346551
+
+peptide: HGVKN
+path:    Y49I G50I V51I K52I N53I 
+
+Alignment:
+HGVKN
+YGVKN
+
+_________________________________
+Alignment score: 10.1226 P-value: 0.00224743
+
+peptide: HGVKN
+path:    H73I L81I K47I N48I 
+
+Alignment:
+HGVKN
+H-LKN
+
+_________________________________

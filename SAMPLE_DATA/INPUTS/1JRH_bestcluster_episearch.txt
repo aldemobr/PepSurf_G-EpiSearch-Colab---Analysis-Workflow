@@ -1,0 +1,9 @@
+Solution No. 1	Peptide Sequence	Length	Sequence Information :: Center Residue :: 47 Score: 2.950 [0.738]	View Molecule	Download	Comment
+Peptide No:: 1	QAKEY	Length::5	Center Residue:47 ::Predicted Residue::
+E45 , K47 , Y49 , K52 , E55 ,	JMOL 3D View	View PDB file	Predicted length::5
+Peptide No:: 2	EAKNY	Length::5	Center Residue:47 ::Predicted Residue::
+E45 , K47 , N48 , Y49 , K52 , N53 , E55 ,	JMOL 3D View	View PDB file	Predicted length::7
+Peptide No:: 3	HGVKN	Length::5	Center Residue:47 ::Predicted Residue::
+K47 , N48 , K52 , N53 , H73 ,	JMOL 3D View	View PDB file	Predicted length::5
+Peptide No:: 4	NGLWT	Length::5	Center Residue:47 ::Predicted Residue::
+N48 , N53 , W56 , W82 ,	JMOL 3D View	View PDB file	Predicted length::4

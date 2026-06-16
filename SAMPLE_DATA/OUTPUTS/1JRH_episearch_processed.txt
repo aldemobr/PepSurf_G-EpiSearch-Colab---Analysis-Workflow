@@ -1,0 +1,5 @@
+Protein Name	Center Residue	EpiSearch Total Score	EpiSearch Average Score	Peptide Number	Peptide Sequence	Length	Amino Acids (Predicted Residues)	Predicted Length
+1JRH_bestcluster_episearch	47	2.950	0.738	1	QAKEY	5	GLU45; LYS47; TYR49; LYS52; GLU55	5
+				2	EAKNY	5	GLU45; LYS47; ASN48; TYR49; LYS52; ASN53; GLU55	7
+				3	HGVKN	5	LYS47; ASN48; LYS52; ASN53; HIS73	5
+				4	NGLWT	5	ASN48; ASN53; TRP56; TRP82	4

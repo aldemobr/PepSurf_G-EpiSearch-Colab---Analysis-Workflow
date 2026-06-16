@@ -1,0 +1,41 @@
+*Alignment with highest score*
+Alignment score: 11.2049 P-value: 0.000259381
+
+peptide: GVKSY
+path:    G50I V51I K52I N53I Y49I 
+
+Alignment:
+GVKSY
+GVKNY
+
+_________________________________
+Alignment score: 9.40526 P-value: 0.0015764
+
+peptide: GVKSY
+path:    G75I V74I L81I S80I Y49I 
+
+Alignment:
+GVKSY
+GVLSY
+
+_________________________________
+Alignment score: 8.38365 P-value: 0.00438645
+
+peptide: GVKSY
+path:    G90I V89I P40I Y33I 
+
+Alignment:
+GVKSY
+GVP-Y
+
+_________________________________
+Alignment score: 7.9536 P-value: 0.0067445
+
+peptide: GVKSY
+path:    V12I E93I S94I Y96I 
+
+Alignment:
+VKSY
+VESY
+
+_________________________________

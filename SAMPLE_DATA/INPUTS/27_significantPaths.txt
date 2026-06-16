@@ -1,0 +1,41 @@
+*Alignment with highest score*
+Alignment score: 12.88 P-value: 0.000371523
+
+peptide: YGHKN
+path:    Y49I G50I N79I K52I N53I 
+
+Alignment:
+YGHKN
+YGNKN
+
+_________________________________
+Alignment score: 10.6683 P-value: 0.00226727
+
+peptide: YGHKN
+path:    G75I H73I S71I N69I 
+
+Alignment:
+GHKN
+GHSN
+
+_________________________________
+Alignment score: 9.68912 P-value: 0.00504517
+
+peptide: YGHKN
+path:    Y33I H66I Y30I N17I 
+
+Alignment:
+YGHKN
+Y-HYN
+
+_________________________________
+Alignment score: 9.28635 P-value: 0.00700769
+
+peptide: YGHKN
+path:    Y67I H65I I63I N62I 
+
+Alignment:
+YGHKN
+Y-HIN
+
+_________________________________

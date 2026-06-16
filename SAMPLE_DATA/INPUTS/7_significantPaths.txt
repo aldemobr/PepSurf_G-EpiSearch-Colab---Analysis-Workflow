@@ -1,0 +1,61 @@
+*Alignment with highest score*
+Alignment score: 10.8355 P-value: 0.00187248
+
+peptide: QAKEY
+path:    S99I A97I R84I E45I Y96I 
+
+Alignment:
+QAKEY
+SAREY
+
+_________________________________
+Alignment score: 9.50469 P-value: 0.0056452
+
+peptide: QAKEY
+path:    Q91I G90I K92I E93I 
+
+Alignment:
+QAKE
+QGKE
+
+_________________________________
+Alignment score: 9.45886 P-value: 0.00586363
+
+peptide: QAKEY
+path:    A95I K86I S94I Y96I 
+
+Alignment:
+AKEY
+AKSY
+
+_________________________________
+Alignment score: 9.3845 P-value: 0.00623605
+
+peptide: QAKEY
+path:    E101I S80I K47I E55I W56I 
+
+Alignment:
+QAKEY
+ESKEW
+
+_________________________________
+Alignment score: 8.1988 P-value: 0.0166104
+
+peptide: QAKEY
+path:    S105I S22I E21I Y30I 
+
+Alignment:
+AKEY
+SSEY
+
+_________________________________
+Alignment score: 7.39388 P-value: 0.0321596
+
+peptide: QAKEY
+path:    H73I A59I D58I E45I W56I 
+
+Alignment:
+QAKEY
+HADEW
+
+_________________________________

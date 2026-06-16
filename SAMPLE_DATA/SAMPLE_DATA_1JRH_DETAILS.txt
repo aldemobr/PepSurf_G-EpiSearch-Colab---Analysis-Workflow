@@ -1,0 +1,83 @@
+PepSurf_G-EpiSearch-Colab---Analysis-Workflow
+
+Analysis of mimotopes of IFN-gamma Receptor from structure of mAb A6 – IFNgammaR complex (1JRH).
+
+Reference: Sogabe S, Stuart F, Henke C, Bridges A, Williams G, Birch A, Winkler FK, Robinson JA. Neutralizing epitopes on the extracellular interferon gamma receptor (IFNgammaR) alpha-chain characterized by homolog scanning mutagenesis and X-ray crystal structure of the A6 fab-IFNgammaR1-108 complex. J Mol Biol. 1997 Nov 7;273(4):882-97. 
+doi: 10.1006/jmbi.1997.1336. PMID: 9367779.
+
+Mimotope set: 
+EHKWY
+GVKSY
+ENKWY
+EAKSY
+EEKRH
+QAKSY
+AVKEY
+QAKEY
+EAKNY
+EGKWY 
+EVKSY 
+ETKVY 
+EEKSY 
+EHKVY 
+EQKFY 
+EMKTY 
+KVKNY 
+MNKWH 
+GVKIH 
+GLKTY 
+SVKSY 
+IAKSY 
+LVKTY 
+YGVKN 
+YGTKN 
+YGYKN 
+HGVKN 
+YGHKN 
+YGLKN 
+HGLKN 
+NSPWR 
+NGGWR 
+NSPWL 
+NTPWS 
+NAPWT 
+NGPWK 
+NPRWQ 
+NSPWV 
+NSPWA 
+NSPWS 
+NSPWF 
+NTPWV 
+NAPPN 
+NAPWE 
+NGPWV 
+NGPWR 
+NSVFH 
+NPSWS 
+NPTWT 
+NPTWQ 
+NPTYR 
+NPAYR 
+NPGWV 
+NPRWM 
+NGLWT 
+NGDYE 
+NGSWR 
+NGYYE 
+NGTWR
+
+IMPORTANT: for this analysis only the best PepSurf and EpiSearch solutions (with the highest score) were used. Pre-processed results are available for Google Colab Notebook test.
+
+SAMPLE DATA
+INPUTS:
+-	PepSurf results (pepSurfServer.res)
+-	PepSurf Epitope Pathways (*_significantPaths.txt)
+-	EpiSearch results (*_episearch.txt)
+-	Three-dimensional structure – 1JRH (*.pdb)
+
+OUTPUTS:
+-	*minimal_peptides.csv
+-	* minimal_peptides_details.txt
+-	*episearch_processed.txt
+-	*combined_pepsurf_episearch_union (.csv and .xlsx)
+-	Epitope 3D visualization 

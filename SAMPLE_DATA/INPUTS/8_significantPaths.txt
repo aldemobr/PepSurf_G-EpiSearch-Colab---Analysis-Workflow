@@ -1,0 +1,31 @@
+*Alignment with highest score*
+Alignment score: 13.9024 P-value: 0.000282135
+
+peptide: EAKNY
+path:    E55I S54I K47I N48I Y49I 
+
+Alignment:
+EAKNY
+ESKNY
+
+_________________________________
+Alignment score: 11.5527 P-value: 0.00188429
+
+peptide: EAKNY
+path:    D76I V51I K52I N53I Y49I 
+
+Alignment:
+EAKNY
+DVKNY
+
+_________________________________
+Alignment score: 10.7995 P-value: 0.00346149
+
+peptide: EAKNY
+path:    E101I I20I E21I N26I Y23I 
+
+Alignment:
+EAKNY
+EIENY
+
+_________________________________

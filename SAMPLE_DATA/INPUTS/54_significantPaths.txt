@@ -1,0 +1,21 @@
+*Alignment with highest score*
+Alignment score: 9.79954 P-value: 0.00127101
+
+peptide: NGLWT
+path:    N48I S80I L81I W82I S99I 
+
+Alignment:
+NGLWT
+NSLWS
+
+_________________________________
+Alignment score: 6.84592 P-value: 0.0163599
+
+peptide: NGLWT
+path:    N79I G50I V51I 
+
+Alignment:
+NGL
+NGV
+
+_________________________________
